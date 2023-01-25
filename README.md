@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+##### My name is Olenka Besaga :smile:
+##### A Few Things About me :wink:
+- I am Ukrainian  
+- I love trying new foods
+- I enjoy reading 
+- I love to travel!
+
+### I am excited to learn Python and R and use it in the future! :smile:
+
+
 <!--
 **olenkabesaga/olenkabesaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
