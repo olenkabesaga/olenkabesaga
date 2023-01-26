@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ##### My name is Olenka Besaga :smile:
+###### I am an Economics student at Pace University NYC
+
 ##### A Few Things About me :wink:
 - I am Ukrainian  
 - I love trying new foods
