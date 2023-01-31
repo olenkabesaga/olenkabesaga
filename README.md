@@ -11,7 +11,7 @@
 
 ### I am excited to learn Python and R and use it in the future! :smile:
 
-[gif](https://media.giphy.com/media/10UeedrT5MIfPG/giphy.gif)
+![gif](https://media.giphy.com/media/10UeedrT5MIfPG/giphy.gif)
 
 
 <!--
