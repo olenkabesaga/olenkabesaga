@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ##### My name is Olenka Besaga :smile:
-###### I am an Economics student at Pace University NYC
+###### I am a double major in Economics and Political Science at Pace University.
 
 ##### A Few Things About me :wink:
 - I am Ukrainian  
@@ -10,6 +10,8 @@
 - I love to travel!
 
 ### I am excited to learn Python and R and use it in the future! :smile:
+
+[gif](https://media.giphy.com/media/10UeedrT5MIfPG/giphy.gif)
 
 
 <!--
